@@ -9,8 +9,8 @@ Below are the results as follows;
 ### Baseline: ###
 
 ![[Images/Baseline_report.png]](https://github.com/RJSMART-11/Module-14-Challenge/blob/main/Resources/PNG/Baseline_report.png)
-![[Images/Baseline_report.png]]([https://github.com/RJSMART-11/Module-14-Challenge/blob/main/Resources/PNG/Baseline_returns%20plot.png])
-![[Images/Baseline_report.png]]([https://github.com/RJSMART-11/Module-14-Challenge/blob/main/Resources/PNG/Baseline_returns.png)])
+![[Images/Baseline_report.png]](https://github.com/RJSMART-11/Module-14-Challenge/blob/main/Resources/PNG/Baseline_returns%20plot.png)
+![[Images/Baseline_report.png]](https://github.com/RJSMART-11/Module-14-Challenge/blob/main/Resources/PNG/Baseline_returns.png)
 
 https://github.com/RJSMART-11/Module-14-Challenge/blob/main/Resources/PNG/Baseline_returns.png
 
