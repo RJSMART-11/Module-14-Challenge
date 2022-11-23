@@ -6,7 +6,13 @@ We were asked to anaylze our actual reutrns anaginst our strateggy to so how suc
 
 Below are the results as follows;
 
-Baseline: 
+Baseline:
+![[Images/Baseline_report.png]]([(https://github.com/RJSMART-11/Module-14-Challenge/blob/main/Resources/PNG/Baseline_report.png])
+![[Images/Baseline_report.png]]([https://github.com/RJSMART-11/Module-14-Challenge/blob/main/Resources/PNG/Baseline_returns%20plot.png])
+![[Images/Baseline_report.png]]([https://github.com/RJSMART-11/Module-14-Challenge/blob/main/Resources/PNG/Baseline_returns.png)])
+
+https://github.com/RJSMART-11/Module-14-Challenge/blob/main/Resources/PNG/Baseline_returns.png
+
 After running an analysis of our orignal stategy compared to our actual gains, it appears that our actual reuturns were pretty similar to our to our stategy, so much so that they both have almost identical trend-lines interms of direction of returns throughout the entire period. Although after analysis we can see that the orginal strategy outpreformed our actual returns.
 
 Adjusted Test/training periods to 6 months: 
